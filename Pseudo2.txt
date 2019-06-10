@@ -1,0 +1,22 @@
+PROCEDURE FUNC()
+BEGIN
+g_i[i_i] <- 0
+h_c[j_i] <- 2
+DEFINE arr_cp[10]
+GET_VAL "BU: $faz_i,SU:$zeh_f"
+o_fp <- l_ldp
+PRINT_LINE "Merhaba"
+IF ((i_i<n_i) AND (j_i>m_i)) THEN
+BEGIN
+a_i <- (j_i+i_i)/k_cp
+END
+WHILE ((k_cp<x_i) AND (j_i>m_i)) DO
+BEGIN
+b_i <- 0
+END
+RETURN VOID
+END
+
+PROCEDURE MAIN()
+BEGIN
+END
